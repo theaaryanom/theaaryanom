@@ -61,6 +61,3 @@
 When I’m not coding or hacking, you’ll find me tinkering with IoT devices or diving into the mysteries of quantum mechanics.  
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=theaaryanom&icon=0&color=0)](https://visitcount.itsvg.in)  
----
